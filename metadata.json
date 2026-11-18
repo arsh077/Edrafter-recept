@@ -1,0 +1,6 @@
+{
+  "name": "eDrafter — Payment Receipt & Order Management Portal",
+  "description": "Legal documentation order management, payment collection, GST breakdown calculator, and A4 PDF payment receipt portal with QR verification for eDrafter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
